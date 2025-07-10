@@ -1,0 +1,14 @@
+*/obj
+*/bin
+*/*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.sln.cache
+*.sln.ide
+*.sln.vspscc
+*.sln.vssscc
+*.sln.vspscc
+*.idea
+*.user
